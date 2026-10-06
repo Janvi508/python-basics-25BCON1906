@@ -3,7 +3,7 @@ A simple Python application that calculates the factorial
 of any number entered by the user.
 ## Features
 - Calculates factorials of any positive integer
-- Accepts user input from the terminal
+
 - Includes input validation for negative numbers
 - Handles invalid user input
 - Easy to use and beginner friendly
@@ -24,5 +24,4 @@ Output:
 ## How It Works
 The program accepts a number from the user and uses
 a loop to calculate its factorial.
-## License
-This project is licensed under the MIT License.
+
