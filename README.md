@@ -3,7 +3,7 @@ A simple Python application that calculates the factorial
 of any number entered by the user.
 ## Features
 - Calculates factorials of any positive integer
-
+-we used AI to convert the code from c to python
 - Includes input validation for negative numbers
 - Handles invalid user input
 - Easy to use and beginner friendly
